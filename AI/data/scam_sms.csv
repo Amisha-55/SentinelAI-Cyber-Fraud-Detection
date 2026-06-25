@@ -1,0 +1,13 @@
+text,label
+
+"Congratulations! You won 5 lakh. Click here.",scam
+
+"Your account is blocked. Verify now.",scam
+
+"Meeting at 5 pm today",safe
+
+"Your OTP is 123456",safe
+
+"Claim your prize immediately",scam
+
+"Your electricity bill is due",safe

@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#00FF41"
+backgroundColor = "#0a0e27"
+secondaryBackgroundColor = "#1a1f3a"
+textColor = "#e0e0e0"
+font = "monospace"
+
+[client]
+showErrorDetails = true
+
+[logger]
+level = "info"
+
+[ui]
+hideTopBar = false
+hideFooterByDefault = false
