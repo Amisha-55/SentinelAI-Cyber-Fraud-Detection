@@ -1,6 +1,6 @@
 # Gemini explainer module
 
-from turtle import st
+import streamlit as st
 
 import google.generativeai as genai
 
