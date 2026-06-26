@@ -1,6 +1,6 @@
 # 🛡️ SentinelAI – AI Cyber Fraud Detection Platform
 
-An advanced, AI-powered Cyber Fraud Detection Platform designed to protect users by identifying phishing messages, malicious URLs, and suspicious imagery. By integrating Deep Learning, Optical Character Recognition (OCR), and state-of-the-art Generative AI, **SentinelAI** not only detects threats but also assesses risk and automatically generates official cybercrime complaints.
+SentinelAI is a Python-based web application that detects phishing messages, suspicious URLs, and image-based scams using machine learning, OCR, and Google's Gemini API. The platform provides explainable threat analysis and generates structured cybercrime complaint drafts.
 
 ---
 
