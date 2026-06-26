@@ -88,7 +88,7 @@ With the exponential surge in digital transactions and online communication, mod
 | Frontend | Streamlit | Responsive Web Application |
 | Programming Language | Python 3.10+ | Core Development |
 | NLP Model | Hugging Face Transformers | Scam Classification |
-| Deep Learning Model | BERT (mrm8488/bert-tiny-finetuned-sms-spam-detection) | SMS & Email Detection |
+| Deep Learning Model | BERT  | SMS & Email Detection |
 | Generative AI | Google Gemini 1.5 Flash | AI Explanations & Complaint Generation |
 | OCR | EasyOCR | Text Extraction from Images |
 | Image Processing | Pillow (PIL) | Image Handling |
@@ -102,8 +102,6 @@ With the exponential surge in digital transactions and online communication, mod
 # 🤖 AI Models Utilized
 
 ## Spam Detection Model
-
-**Model:** `mrm8488/bert-tiny-finetuned-sms-spam-detection`
 
 **Purpose**
 - SMS Scam Detection
@@ -237,14 +235,6 @@ The platform provides:
 
 ---
 
-# 👩‍💻 Developed By
-
-**Amisha Tripathy**
-
-B.Tech – Artificial Intelligence & Machine Learning
-
----
-
 # 📚 References
 
 - Google AI Studio – https://ai.google.dev/
@@ -256,12 +246,6 @@ B.Tech – Artificial Intelligence & Machine Learning
 - Pandas – https://pandas.pydata.org/
 - EasyOCR – https://easyocr.readthedocs.io/
 - Python – https://www.python.org/
-
----
-
-# 🙏 Acknowledgements
-
-This project demonstrates the practical application of Artificial Intelligence, Machine Learning, Optical Character Recognition, and Large Language Models in combating cyber fraud. SentinelAI combines modern AI technologies with an intuitive interface to improve cyber awareness and help users identify online threats effectively.
 
 ---
 
